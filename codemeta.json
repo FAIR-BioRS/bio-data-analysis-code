@@ -27,5 +27,8 @@
   "programmingLanguage": [
     "Python"
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.17281711",
+  "version": "1.0.0",
+  "dateModified": "2025-10-06"
 }
